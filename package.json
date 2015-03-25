@@ -1,0 +1,22 @@
+{
+  "name": "html-templateify",
+  "version": "0.1.0",
+  "description": "Browserify transform to require() HTML files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kidblog/html-templateify"
+  },
+  "keywords": [
+    "browserify-transform"
+  ],
+  "author": {
+    "name": "Joe Einertson",
+    "url": "https://github.com/royaldark"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidblog/html-templateify/issues"
+  },
+  "homepage": "https://github.com/kidblog/html-templateify"
+}
