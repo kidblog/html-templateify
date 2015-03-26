@@ -1,6 +1,6 @@
 {
   "name": "html-templateify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Browserify transform to require() HTML files",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/kidblog/html-templateify/issues"
   },
   "homepage": "https://github.com/kidblog/html-templateify",
-  "devDependencies": {
+  "dependencies": {
     "browserify-transform-tools": "^1.3.3",
     "js-string-escape": "^1.0.0"
   }
